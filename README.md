@@ -1,2 +1,3 @@
 # Acme
-My first repository on GitHub.
+My first Next.js Project.
+I love Next.js
